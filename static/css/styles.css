@@ -1,0 +1,111 @@
+
+hr{
+	margin: 3% 17% ;
+}
+
+body{
+	background-color: #F4F3EA;
+	color: #333d51;
+	font-family: 'Merriweather', serif;
+	font: size 10px;
+
+}
+
+h1{
+	margin-bottom: 0;
+}
+
+nav a{
+	color: #333d51;
+}
+nav a:hover{
+	background-color: #333d51;
+	color: #F4F3EA;
+}
+img{
+	overflow: hidden;
+}
+.messages{
+	color: red;
+}
+
+
+
+
+
+/*title section*/
+#logo{
+	width: 100px;
+	height: 100px;
+}
+#title{
+	text-align: center;
+
+	
+}
+
+
+.home-icon{
+	size: 20px;
+	color: #57648c;
+
+}
+
+
+
+
+/*details section*/
+
+
+#details{
+	padding: 5% 10%;
+}
+
+/* footer Section*/
+footer{
+	background-color: #333d51;
+	text-align: center;
+	color: #ffff;
+}
+.footer{
+	background-color: #e5e5e5;
+	color: #57648c;
+}
+
+
+
+
+/* About WebPage*/
+.pastor-img{
+	width: 400px;
+	height: 400x;
+	border-radius: 30%;
+
+}
+
+.about-body{
+	text-align: center;
+}
+
+
+/* login page*/
+
+.login{
+	margin: 5px;
+
+}
+
+.comment{
+	size: 200px;
+}
+
+/* download page */
+
+.link{
+	color: #57648c;
+	text-decoration: none;
+}
+.link:hover{
+	text-decoration: white;
+	
+}
